@@ -8,4 +8,6 @@
     <string name="last_update">Last update: %1$s</string>
     <string name="fatality_ratio">Fatality Ratio: %1$s</string>
     <string name="country_province">%1$s, %2$s</string>
+    <string name="app_version">Version: 0.1</string>
+    <string name="about_item">About</string>
 </resources>
