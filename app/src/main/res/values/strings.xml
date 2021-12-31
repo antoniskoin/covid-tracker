@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <string name="world_stats">World Statistics</string>
+    <string name="splash_text">Retrieving data…</string>
+    <string name="confirmed">Confirmed: %1$s</string>
+    <string name="deaths">Deaths: %1$s</string>
+    <string name="search">Search country</string>
+    <string name="last_update">Last update: %1$s</string>
+    <string name="fatality_ratio">Fatality Ratio: %1$s</string>
+    <string name="country_province">%1$s, %2$s</string>
+</resources>
